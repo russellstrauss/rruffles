@@ -1,0 +1,1 @@
+All code and content in this repository is for personal use and copyrighted intellectual property of its creator, Russell Strauss, and may not be reused for any reason.
