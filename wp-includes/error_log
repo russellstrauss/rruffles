@@ -1,0 +1,125 @@
+[17-Sep-2015 18:36:44] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/kses.php on line 1395
+[17-Sep-2015 18:36:45] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rdf.php on line 8
+[17-Sep-2015 18:36:45] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[17-Sep-2015 18:36:45] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[17-Sep-2015 18:36:45] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[17-Sep-2015 18:36:45] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[17-Sep-2015 18:36:46] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-feed.php on line 4
+[17-Sep-2015 18:36:46] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/class-feed.php on line 4
+[17-Sep-2015 18:36:46] PHP Fatal error:  Class 'IXR_Client' not found in /home2/russell/public_html/journal/wp-includes/class-wp-http-ixr-client.php on line 9
+[17-Sep-2015 18:36:47] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/user.php on line 71
+[17-Sep-2015 18:36:48] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rss2.php on line 8
+[17-Sep-2015 18:36:48] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/author-template.php on line 453
+[17-Sep-2015 18:36:49] PHP Fatal error:  Call to undefined function  add_shortcode() in /home2/russell/public_html/journal/wp-includes/media.php on line 611
+[17-Sep-2015 18:36:49] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/class-wp-embed.php on line 20
+[17-Sep-2015 18:36:49] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[17-Sep-2015 18:36:49] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[17-Sep-2015 18:36:49] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[17-Sep-2015 18:36:49] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[17-Sep-2015 18:36:49] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/rss.php on line 19
+[17-Sep-2015 18:36:50] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/category-template.php on line 767
+[17-Sep-2015 18:36:50] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/registration-functions.php on line 7
+[17-Sep-2015 18:36:51] PHP Fatal error:  Call to undefined function  is_main_site() in /home2/russell/public_html/journal/wp-includes/update.php on line 601
+[17-Sep-2015 18:36:51] PHP Fatal error:  Call to undefined function  is_admin() in /home2/russell/public_html/journal/wp-includes/vars.php on line 20
+[17-Sep-2015 18:36:51] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/canonical.php on line 530
+[17-Sep-2015 18:36:51] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/registration.php on line 7
+[17-Sep-2015 18:36:51] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/russell/public_html/journal/wp-includes/class.wp-styles.php on line 19
+[17-Sep-2015 18:36:52] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/ms-functions.php on line 2052
+[17-Sep-2015 18:36:53] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/nav-menu-template.php on line 17
+[17-Sep-2015 18:36:54] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rss.php on line 8
+[17-Sep-2015 18:36:54] PHP Fatal error:  Call to undefined function  is_robots() in /home2/russell/public_html/journal/wp-includes/template-loader.php on line 28
+[17-Sep-2015 18:36:55] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/ms-default-filters.php on line 17
+[17-Sep-2015 18:36:55] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/default-filters.php on line 17
+[17-Sep-2015 18:36:55] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rss2-comments.php on line 8
+[17-Sep-2015 18:36:56] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/admin-bar.php on line 48
+[17-Sep-2015 18:36:56] PHP Fatal error:  Class 'IXR_Server' not found in /home2/russell/public_html/journal/wp-includes/class-wp-xmlrpc-server.php on line 22
+[17-Sep-2015 18:36:57] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/class-snoopy.php on line 6
+[17-Sep-2015 18:36:57] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/shortcodes.php on line 388
+[17-Sep-2015 18:36:57] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/russell/public_html/journal/wp-includes/class.wp-scripts.php on line 19
+[17-Sep-2015 18:36:57] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home2/russell/public_html/journal/wp-includes/class-wp-image-editor-gd.php on line 17
+[17-Sep-2015 18:36:57] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/theme.php on line 671
+[17-Sep-2015 18:36:58] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/taxonomy.php on line 121
+[17-Sep-2015 18:36:58] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-atom-comments.php on line 8
+[17-Sep-2015 18:36:59] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/rss-functions.php on line 8
+[17-Sep-2015 18:36:59] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/comment-template.php on line 1481
+[17-Sep-2015 18:36:59] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-atom.php on line 8
+[17-Sep-2015 18:37:00] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/post.php on line 165
+[17-Sep-2015 18:37:00] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/post-formats.php on line 170
+[17-Sep-2015 18:37:00] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/general-template.php on line 1342
+[17-Sep-2015 18:37:01] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/ms-default-constants.php on line 151
+[17-Sep-2015 18:37:01] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home2/russell/public_html/journal/wp-includes/class-wp-image-editor-imagick.php on line 17
+[17-Sep-2015 18:37:01] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[17-Sep-2015 18:37:01] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[17-Sep-2015 18:37:01] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[17-Sep-2015 18:37:01] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[17-Sep-2015 18:37:02] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/post-template.php on line 993
+[17-Sep-2015 18:37:02] PHP Fatal error:  Class 'WP_Widget' not found in /home2/russell/public_html/journal/wp-includes/default-widgets.php on line 14
+[17-Sep-2015 19:39:17] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[17-Sep-2015 19:39:17] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[17-Sep-2015 19:39:17] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[17-Sep-2015 19:39:17] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[06-Dec-2015 17:26:02] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[06-Dec-2015 17:26:02] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[06-Dec-2015 17:26:02] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[06-Dec-2015 17:26:02] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/class-simplepie.php on line 5
+[06-Dec-2015 17:26:02] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/rss-functions.php on line 8
+[06-Dec-2015 17:26:02] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/post-template.php on line 993
+[06-Dec-2015 17:26:02] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/kses.php on line 1395
+[06-Dec-2015 17:26:02] PHP Fatal error:  Call to undefined function  is_main_site() in /home2/russell/public_html/journal/wp-includes/update.php on line 601
+[06-Dec-2015 17:26:03] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[06-Dec-2015 17:26:03] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[06-Dec-2015 17:26:03] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[06-Dec-2015 17:26:03] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/script-loader.php on line 25
+[06-Dec-2015 17:26:06] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/ms-default-filters.php on line 17
+[06-Dec-2015 17:26:07] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/default-filters.php on line 17
+[06-Dec-2015 17:26:08] PHP Fatal error:  Call to undefined function  is_robots() in /home2/russell/public_html/journal/wp-includes/template-loader.php on line 28
+[06-Dec-2015 17:26:10] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/registration-functions.php on line 7
+[06-Dec-2015 17:26:10] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home2/russell/public_html/journal/wp-includes/class-wp-image-editor-gd.php on line 17
+[06-Dec-2015 17:26:12] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/class-snoopy.php on line 6
+[06-Dec-2015 17:26:15] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/category-template.php on line 767
+[06-Dec-2015 17:26:15] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-atom-comments.php on line 8
+[06-Dec-2015 17:26:17] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/class-feed.php on line 4
+[06-Dec-2015 17:26:17] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/class-feed.php on line 4
+[06-Dec-2015 17:26:22] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/post-formats.php on line 170
+[06-Dec-2015 17:26:24] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-atom.php on line 8
+[06-Dec-2015 17:26:25] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/russell/public_html/journal/wp-includes/class.wp-scripts.php on line 19
+[06-Dec-2015 17:26:27] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/theme.php on line 671
+[06-Dec-2015 17:26:29] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rdf.php on line 8
+[06-Dec-2015 17:26:29] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/post.php on line 165
+[06-Dec-2015 17:26:33] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/user.php on line 71
+[06-Dec-2015 17:26:35] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[06-Dec-2015 17:26:35] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[06-Dec-2015 17:26:35] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[06-Dec-2015 17:26:35] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[06-Dec-2015 17:26:40] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home2/russell/public_html/journal/wp-includes/class-wp-image-editor-imagick.php on line 17
+[06-Dec-2015 17:26:41] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rss2.php on line 8
+[06-Dec-2015 17:26:44] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/comment-template.php on line 1481
+[06-Dec-2015 17:26:50] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/ms-default-constants.php on line 151
+[06-Dec-2015 17:26:50] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rss.php on line 8
+[06-Dec-2015 17:26:54] PHP Fatal error:  Call to undefined function  is_admin() in /home2/russell/public_html/journal/wp-includes/vars.php on line 20
+[06-Dec-2015 17:26:57] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/registration.php on line 7
+[06-Dec-2015 17:26:57] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/canonical.php on line 530
+[06-Dec-2015 17:26:57] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/author-template.php on line 453
+[06-Dec-2015 17:27:03] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/admin-bar.php on line 48
+[06-Dec-2015 17:27:05] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/ms-functions.php on line 2052
+[06-Dec-2015 17:27:06] PHP Fatal error:  Call to undefined function  add_shortcode() in /home2/russell/public_html/journal/wp-includes/media.php on line 611
+[06-Dec-2015 17:27:06] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[06-Dec-2015 17:27:06] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[06-Dec-2015 17:27:06] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[06-Dec-2015 17:27:06] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/ms-settings.php on line 14
+[06-Dec-2015 17:27:06] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/russell/public_html/journal/wp-includes/feed-rss2-comments.php on line 8
+[06-Dec-2015 17:27:07] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/shortcodes.php on line 388
+[06-Dec-2015 17:27:08] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/taxonomy.php on line 121
+[06-Dec-2015 17:27:08] PHP Fatal error:  Class 'WP_Widget' not found in /home2/russell/public_html/journal/wp-includes/default-widgets.php on line 14
+[06-Dec-2015 17:27:11] PHP Fatal error:  Class 'Walker' not found in /home2/russell/public_html/journal/wp-includes/nav-menu-template.php on line 17
+[06-Dec-2015 17:27:11] PHP Fatal error:  Class 'WP_Dependencies' not found in /home2/russell/public_html/journal/wp-includes/class.wp-styles.php on line 19
+[06-Dec-2015 17:27:12] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/rss.php on line 19
+[06-Dec-2015 17:27:13] PHP Fatal error:  Call to undefined function  add_action() in /home2/russell/public_html/journal/wp-includes/general-template.php on line 1342
+[06-Dec-2015 17:27:13] PHP Fatal error:  Call to undefined function  add_filter() in /home2/russell/public_html/journal/wp-includes/class-wp-embed.php on line 20
+[06-Dec-2015 17:27:13] PHP Fatal error:  Class 'IXR_Server' not found in /home2/russell/public_html/journal/wp-includes/class-wp-xmlrpc-server.php on line 22
+[06-Dec-2015 17:54:50] PHP Fatal error:  Class 'IXR_Client' not found in /home2/russell/public_html/journal/wp-includes/class-wp-http-ixr-client.php on line 9
+[06-Jan-2017 03:23:43] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[06-Jan-2017 03:23:43] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[06-Jan-2017 03:23:43] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[06-Jan-2017 03:23:43] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php52/lib/php') in /home2/russell/public_html/journal/wp-includes/functions.php on line 8
+[24-Mar-2017 06:33:19] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/russell/public_html/journal/wp-includes/registration-functions.php on line 7

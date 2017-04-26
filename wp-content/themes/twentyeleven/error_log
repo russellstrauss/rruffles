@@ -1,0 +1,1 @@
+[15-Mar-2017 08:00:08] PHP Fatal error:  Call to undefined function  get_header() in /home2/russell/public_html/journal/wp-content/themes/twentyeleven/404.php on line 10
