@@ -1,0 +1,60 @@
+.entries {
+	.navigation {
+		overflow: auto;
+		margin: 10px 0;
+			
+		li {
+			&:first-child {
+				float: left;
+			}
+			&:last-child {
+				float: right;
+			}
+		}
+	}
+	
+	.entry {
+		margin: 200px 0px 600px 0px;
+		
+		.entry-title {
+			font-family: 'Rosario', sans-serif;
+			font-size: 12px;
+			font-weight: lighter;
+			margin-bottom: 10px;
+			float: left;
+			padding: 5px;
+		}
+		.entry-title img {
+			margin: 0;
+			vertical-align: -16%;
+		}
+		.date {
+			font-family: 'Rosario', sans-serif;
+			font-size: 12px;
+			font-weight: lighter;
+			margin-bottom: 10px;
+			float: right;
+			border: 1px solid black;
+			padding: 10px;
+		}
+		
+		.post {
+			margin-top: 20px;
+			
+			.edit-post {
+				float: left;
+				font-size: 10px;
+			}
+		}
+
+	}
+}
+
+	
+
+
+
+
+
+
+

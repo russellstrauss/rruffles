@@ -1,0 +1,26 @@
+.single-entry {
+	padding-bottom: 100px;
+	
+	.home-link {
+		font-size: 13px;
+		margin-top: 20px;
+	}
+	
+	.entry-content {
+		border-bottom: 1px solid black;
+		margin-bottom: 30px;
+		margin-top: 200px;
+	}
+	
+	.post-links {
+		margin-bottom: 60px;
+		
+		.previous-post {
+			float: left;
+		}
+		.next-post {
+			float: right;
+		}
+	}
+}
+

@@ -1,0 +1,31 @@
+.post img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	max-width: 100%;
+}
+
+video {
+	max-width: 100%;
+	cursor: pointer;
+}
+.video-structure {
+	position: relative;
+}
+.video-thumbnail-play {
+	background: url(images/play.png);
+	background-size: 100px;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	cursor: pointer;
+}
+
+p {
+	font-family: 'Rosario';
+	font-size: 14px;
+	line-height: 125%;
+	margin-bottom: 20px;
+}

@@ -1,0 +1,22 @@
+/* Imports */
+
+@import 'vars.scss';
+@import 'mixins.scss';
+@import 'global.scss';
+
+/* MOBILE FIRST! */
+@import 'mobile/wordpress-theme.scss';
+@import 'mobile/comments.scss';
+@import 'mobile/entries.scss';
+@import 'mobile/post.scss';
+@import 'mobile/single.scss';
+
+
+
+@media (min-width: $bp-tablet-min) { // Then import tablet, inheriting everything from mobile, overiding mobile styles where necessary
+	@import 'tablet/body.scss';
+	@import 'tablet/entries.scss';
+}
+@media (min-width: $bp-desktop-min) { // Then import desktop, inheriting mobile and tablet. Override style from other two breakpoints where necessary.
+	
+}
