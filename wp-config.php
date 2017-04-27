@@ -14,18 +14,27 @@
  * @package WordPress
  */
 
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define('DB_NAME', 'russell_wrdp3');
 
-/** MySQL database username */
+
+// Local
+define('DB_NAME', 'russell_journal');
 define('DB_USER', 'russell_wrdp3');
-
-/** MySQL database password */
 define('DB_PASSWORD', 'dMqkiVLH7CrjbC9W');
-
-/** MySQL hostname */
 define('DB_HOST', 'localhost');
+
+// prod
+// define('DB_NAME', 'russell_wrdp3');
+// define('DB_USER', 'russell_wrdp3');
+// define('DB_PASSWORD', 'dMqkiVLH7CrjbC9W');
+// define('DB_HOST', 'localhost');
+
+
+
+
+
+
+
+
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
