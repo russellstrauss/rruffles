@@ -13,17 +13,22 @@ jQuery('video').each(function(){
 	});
 });
 
-jQuery('video').on('click', function(){
-
-	var video = jQuery(this)[0];
+jQuery('video, .video-thumbnail-play').on('click', function(){
+	
+	var video;
+	if (jQuery(this).hasClass('video-thumbnail-play')) {
+		video = jQuery(this).closest('.video-structure').find('video')[0];
+	}
+	else {
+		video = jQuery(this)[0];
+	}
+	jQuery(this).attr('controls', 'controls');
 
 	if (video.currentTime > 0 && !video.paused) {
 		video.pause();
-		jQuery(this).removeAttr('controls');
 	}
 	else {
 		video.play();
-		jQuery(this).attr('controls', 'controls');
 	}
 });
 

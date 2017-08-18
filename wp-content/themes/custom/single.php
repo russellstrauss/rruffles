@@ -48,4 +48,7 @@
 
 		<?php comments_template(); ?><br/>
 				
-	</div><!--end entries-->	
+	</div>	
+</div>
+
+<?php get_footer(); ?>
